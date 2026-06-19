@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ibew59.hsteamid.com/sitemap.xml
